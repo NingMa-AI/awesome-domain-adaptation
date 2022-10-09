@@ -421,6 +421,9 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 **Arxiv**
 - Butterfly: Robust One-step Approach towards Wildly-unsupervised Domain Adaptation [[arXiv on 19 May 2019]](https://arxiv.org/abs/1905.07720v1)
 
+**Journal**
+- Context-Guided Entropy Minimization for Semi-Supervised Domain Adaptation [Neural Network](https://doi.org/10.1016/j.neunet.2022.07.011) [Pytorch](https://github.com/NingMa-AI/DEEM)
+
 
 ## Zero-shot DA
 **Conference**
